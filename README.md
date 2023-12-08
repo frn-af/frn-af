@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/2GU.gif"  />
+<img align="right" height="150" src="cat.gif"  />
 
 ###
 
