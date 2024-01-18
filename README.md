@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/frn-af/frn-af/blob/output/github-contribution-grid-snake.svg)
 
 ###
